@@ -35,6 +35,10 @@
   width: 150px;
 }
 
+.img-circle:hover {
+  transform: scale(1.2);
+}
+
 .intro {
   font-size: 25px;
 }
